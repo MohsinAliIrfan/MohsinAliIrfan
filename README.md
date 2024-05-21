@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()][(https://rishavchanda.io](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif))
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
