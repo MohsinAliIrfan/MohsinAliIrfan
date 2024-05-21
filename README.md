@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/#lightbox)]()
+[![MasterHead](https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=996)]()
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
