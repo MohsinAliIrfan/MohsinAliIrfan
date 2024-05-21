@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/data-science-deep-learning-artificial-intelligence-analysis-internet-modern-technology-concept-130068639.jpg)](https://rishavchanda.io)
+[![MasterHead]([https://thumbs.dreamstime.com/b/data-science-deep-learning-artificial-intelligence-analysis-internet-modern-technology-concept-130068639.jpg)](https://rishavchanda.io](https://i.redd.it/n8agw6z2smyb1.gif))
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
 
-- 💬 Ask me about **Data Science | Data Analytics | Machine Learning**
+- 💬 Ask me about **Data Science | Data Analytics | Machine Learning | Large Laguage Models**
 
 - 📫 How to reach me **mohsinaliirfan70@gmail.com**
 
