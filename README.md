@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img src = "https://i.redd.it/n8agw6z2smyb1.gif" /img>
 
 - 🔭 I’m currently working on **Akira (LLM based Project)**
 
