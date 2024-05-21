@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+
 - 🔭 I’m currently working on **Akira (LLM based Project)**
 
 - 🌱 I’m currently learning **LangChain, OpenAI**
 
 - 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
 
-- 💬 Ask me about **Data Science | Data Analytics | Machine Learning**
+- 💬 Ask me about **Data Science | Data Analytics | Machine Learning | Large Language Models**
 
 - 📫 How to reach me **mohsinaliirfan70@gmail.com**
 
