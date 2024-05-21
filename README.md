@@ -1,4 +1,4 @@
-[![MasterHead](https://images.inc.com/uploaded_files/image/1920x1080/getty_660952912_363647.jpg)]()
+[![MasterHead](https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c)]()
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
