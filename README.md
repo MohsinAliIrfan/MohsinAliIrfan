@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
 <h3 align="center">AI Engineer at Drox Labs</h3>
 
-- 🔭 I’m currently working on **Akira (LLM based Project)**
+- 🔭 I’m currently working on Machine Learning and Large Language Models.
 
-- 🌱 I’m currently learning **LangChain, OpenAI**
+- 🌱 I’m currently learning Fine Tuning LLMs, Tensorflow, Pytorch.
 
 - 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
 
