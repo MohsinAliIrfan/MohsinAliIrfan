@@ -1,8 +1,8 @@
 [![MasterHead](https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=996)]()
 <h1 align="center">Hi 👋, I'm Mohsin Ali Irfan</h1>
-<h3 align="center">AI Engineer at Drox Labs</h3>
+<h3 align="center">AI Engineer at Code Upscale</h3>
 
-- 🔭 I’m currently working on Machine Learning and Large Language Models.
+- 🔭 I’m currently working on building multi ai agent system and agentic workflow using Large Language Models.
 
 - 🌱 I’m currently learning Fine Tuning LLMs, Tensorflow, Pytorch.
 
