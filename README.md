@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
 
-- 💬 Ask me about **Data Science | Data Analytics | Machine Learning | Large Laguage Models**
+- 💬 Ask me about ** Generative AI | Data Science | Data Analytics | Machine Learning | Large Laguage Models**
 
 - 📫 How to reach me **mohsinaliirfan70@gmail.com**
 
