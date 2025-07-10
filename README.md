@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning, well literally everything 
 
-- 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
+- 👯 I’m looking to collaborate on **Generative AI/Data Science/Analytics/Machine Learning**
 
 - 💬 Ask me about ** Generative AI | Data Science | Data Analytics | Machine Learning | Large Laguage Models**
 
