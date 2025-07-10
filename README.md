@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on building multi ai agent system and agentic workflow using Large Language Models.
 
-- 🌱 I’m currently learning Fine Tuning LLMs, AI Agents, Pytorch.
+- 🌱 I’m currently learning, well literally everything 
 
 - 👯 I’m looking to collaborate on **Data Science/Analytics/Machine Learning**
 
